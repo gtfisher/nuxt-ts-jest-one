@@ -16,7 +16,8 @@
     "@nuxtjs/axios": "^5.12.2",
     "core-js": "^3.6.5",
     "nuxt": "^2.14.6",
-    "nuxt-property-decorator": "^2.8.8"
+    "nuxt-property-decorator": "^2.8.8",
+    "nuxt-typed-vuex": "^0.1.22"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.12",
@@ -35,6 +36,7 @@
     "jest": "^26.5.0",
     "prettier": "^2.1.2",
     "ts-jest": "^26.4.4",
-    "vue-jest": "^3.0.4"
+    "vue-jest": "^3.0.4",
+    "vue-property-decorator": "9.0.0"
   }
 }
